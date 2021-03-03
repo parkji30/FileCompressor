@@ -1,3 +1,3 @@
 # Huffman-Compression
 
-A python program which compresses files using the Huffman algorithm
+Python implementation of huffman compression algorithm
